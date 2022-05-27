@@ -3,7 +3,7 @@
 2. node index.js
 3. should be good
 4. ya
-5. oh make sure u have the dependancies uhhhh i made this in 20 minutes they're probably just djs and dotenv
+5. oh make sure u have the dependancies uhhhh i made this in 5 minutes they're probably just djs and dotenv
 
 # what does it do
 > every 500 messages he should send a morbius quote
